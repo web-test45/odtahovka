@@ -1,0 +1,74 @@
+{
+  "topBar": {
+    "phone": "0904 045 678",
+    "email": "optiboxhd@gmail.com"
+  },
+
+  "header": {
+    "logoText": "StudneNR"
+  },
+  
+  "hero": {
+    "headline": "Profesionálne vŕtanie a prehlbovanie studní",
+    "typedText": "Spoľahlivé studne do všetkých druhov hornín s dlhoročnými skúsenosťami."
+  },
+  "services": {
+    "title": "Naše služby",
+    "subtitle": "Pôsobíme v lokalite Nitry a okolí do 70 km, Nové Zámky a Hlohovec.",
+    "items": [
+      {
+        "title": "💧 Vŕtanie a prehlbovanie studní",
+        "description": "Realizujeme vrty od 150 mm do 400 mm do všetkých druhov hornín."
+      },
+      {
+        "title": "⚒️ Rôzne technológie vŕtania",
+        "description": "Studne vŕtame šnekom, výplachom alebo pneumatickým kladivom – kompresorom podľa podmienok a typu podložia."
+      },
+      {
+        "title": "🔍 Vyhľadávanie prameňov",
+        "description": "Pomocou prútika nájdeme pre vás najvýdatnejšie pramene pre studňu."
+      }
+    ]
+  },
+  "moreInfo": {
+    "title": "Viac o našich službách",
+    "subtitle": "Spoľahlivosť, dlhoročné skúsenosti a moderná technika pre kvalitné studne.",
+    "cards": [
+      {
+        "title": "Skúsenosti a technika",
+        "subtitle": "Tri vrtné súpravy k dispozícii",
+        "description": "Disponujeme tromi profesionálnymi vrtnými súpravami a bohatými skúsenosťami v odbore. Každú studňu realizujeme spoľahlivo a precízne.",
+        "highlights": []
+      },
+      {
+        "title": "Flexibilné technológie",
+        "subtitle": "Prispôsobenie každému podložiu",
+        "description": "Používame technológie vhodné na rôzne typy hornín a situácie. Zabezpečíme optimálny postup vŕtania pre vaše podmienky.",
+        "highlights": []
+      },
+      {
+        "title": "Kvalitné materiály",
+        "subtitle": "Bezpečnosť pre pitnú vodu",
+        "description": "Používame atestované PVC rúry vhodné na pitnú vodu, čo zaručuje zdravotnú nezávadnosť a dlhú životnosť studne.",
+        "highlights": [
+          "Certifikované PVC rúry",
+          "Bezpečné pre pitnú vodu",
+          "Dlhodobá trvácnosť"
+        ]
+      },
+      {
+        "title": "Cenová dostupnosť",
+        "subtitle": "Cena už od 50 €",
+        "description": "Cena práce sa odvíja od druhu horniny a priemeru vrtu. Už od 50 € vám zrealizujeme studňu presne podľa vašich potrieb.",
+        "highlights": [
+          "Férové ceny",
+          "Individuálny prístup",
+          "Transparentná cenová ponuka"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2025 StudneNR | Všetky práva vyhradené"
+  }
+}
