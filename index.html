@@ -59,7 +59,7 @@
         }
 
         .logo-text {
-            font-family: 'Arial';
+            font-family: 'Arial' Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             font-size: 2.8rem;
             color: #171a56;
             letter-spacing: 1px;
@@ -243,11 +243,11 @@
         }
 
         .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 30px;
+            display: flex;
+            justify-content: center;
             margin-top: 40px;
         }
+
 
         .stat-card {
             background: rgba(255, 255, 255, 0.05);
@@ -1129,14 +1129,15 @@
     <!-- Stats Section -->
     <section class="stats">
         <div class="stats-container">
-            <div class="stats-grid">
+            <div class="stats-grid" style="justify-content:center; display:flex;">
                 <div class="stat-card fade-in-up">
-                    <div class="stat-number" id="counter3">1</div>
+                    <div class="stat-number" id="counter3">10</div>
                     <div class="stat-text">Rokov skúsenosti</div>
                 </div>
             </div>
         </div>
     </section>
+    
     
 
 
