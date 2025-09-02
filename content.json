@@ -5,7 +5,7 @@
   },
 
   "header": {
-    "logoText": "BOZP a OPP kurzy"
+    "logoText": "BOZP kurzy"
   },
   
   "hero": {
@@ -51,6 +51,18 @@
         "subtitle": "Praktické rady a skúsenosti",
         "description": "Poskytnem vám zrozumiteľné návody a osvedčené postupy, ktoré uľahčia každodennú prácu či zvýšia vašu bezpečnosť.",
         "highlights": []
+      },
+
+      {
+        "title": "Kompletný servis",
+        "subtitle": "Od školenia po revízie",
+        "description": "Okrem kurzov zabezpečujem aj revízie zariadení a poradím vám pri nastavovaní bezpečnostných procesov."
+      },
+
+      {
+        "title": "Flexibilné termíny",
+        "subtitle": "Prispôsobené vášmu času",
+        "description": "Školenia viem realizovať podľa vášho harmonogramu – počas týždňa, víkendu alebo priamo na pracovisku."
       }
     ]
   },
