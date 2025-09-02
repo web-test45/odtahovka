@@ -1,74 +1,65 @@
 {
   "topBar": {
-    "phone": "0915 993 909",
-    "email": "fmartinkabm@gmail.com"
+    "phone": "0905 212 453",
+    "email": "stofilalubos@gmail.com"
   },
 
   "header": {
-    "logoText": "BOZP kurzy"
+    "logoText": "Odťah & Autoservis"
   },
   
   "hero": {
-    "headline": "Bezpečnosť a odbornosť na prvom mieste",
-    "typedText": "Kurzy, školenia a revízie v oblasti BOZP."
+    "headline": "Pomôžem vám s odťahom a servisom vozidla nonstop",
+    "typedText": "Som tu pre vás, keď sa pokazí auto alebo potrebujete spoľahlivý servis."
   },
+
   "services": {
-    "title": "Moje služby",
-    "subtitle": "Ponúkam školenia a odbornú podporu, ktoré vám prinesú istotu pri práci so strojmi a zariadeniami. Každý kurz je zameraný na praktické skúsenosti a prispôsobený vašim potrebám.",
+    "title": "Čo pre vás robím",
+    "subtitle": "Pôsobím v okolí Michaloviec, Sobraniec a viem prísť kdekoľvek po Slovensku. Moja práca je jednoduchá – pomôcť vám na cestách a postarať sa o vaše auto.",
     "items": [
       {
-        "title": "🎓 Školenia a kurzy",
-        "description": "Naučte sa pracovať bezpečne, efektívne a s istotou."
+        "title": "🚨 Nonstop odťahová služba",
+        "description": "Ak vás nechá auto na ceste alebo sa stane nehoda, stačí zavolať. Budem k dispozícii a prídem čo najrýchlejšie."
       },
       {
-        "title": "🛡 Odborné poradenstvo",
-        "description": "Získajte jasné odporúčania a riešenia pre bezpečnú a spoľahlivú prevádzku."
+        "title": "🔧 Autoservis a pneuservis",
+        "description": "Postarám sa o opravy vášho vozidla, diagnostiku aj výmenu pneumatík. Robím všetko pre to, aby ste sa čo najskôr mohli bezpečne vrátiť na cestu."
       },
       {
-        "title": "🔧 Revízie zariadení",
-        "description": "Profesionálne prehliadky a kontroly zariadení pre vašu bezstarostnú prevádzku."
+        "title": "🚚 Preprava tovaru a vozidiel",
+        "description": "Okrem odťahu ponúkam aj prepravu tovaru či dovoz áut zo zahraničia. Všetko riešim férovo, spoľahlivo a bez zbytočných komplikácií."
       }
     ]
   },
+
   "moreInfo": {
-    "title": "Prečo si vybrať mňa",
-    "subtitle": "Spoľahlivý lektor, ktorý vás pripraví na bezpečnú a kvalitnú prax",
+    "title": "Prečo zavolať práve mňa?",
+    "subtitle": "Moja práca je postavená na poctivosti, rýchlosti a ochote vždy pomôcť.",
     "cards": [
       {
-        "title": "Dlhoročné skúsenosti",
-        "subtitle": "Odbornosť a prax",
-        "description": "Moje školenia a kurzy vychádzajú z praxe a reálnych potrieb klientov.",
-        "highlights": []
+        "title": "Nonstop dostupnosť",
+        "subtitle": "Som tu pre vás 24/7",
+        "description": "Nehody a poruchy si nevyberajú čas. Zavolajte kedykoľvek – cez týždeň, cez víkend – vždy sa snažím vyraziť čo najrýchlejšie."
       },
-      {
-        "title": "Individuálny prístup",
-        "subtitle": "Na mieru pre vás",
-        "description": "Každé pracovisko je iné – prispôsobím kurz presne vašim podmienkam.",
-        "highlights": []
-      },
-      {
-        "title": "Spoľahlivosť a dôvera",
-        "subtitle": "Praktické rady a skúsenosti",
-        "description": "Poskytnem vám zrozumiteľné návody a osvedčené postupy, ktoré uľahčia každodennú prácu či zvýšia vašu bezpečnosť.",
-        "highlights": []
-      },
-
       {
         "title": "Kompletný servis",
-        "subtitle": "Od školenia po revízie",
-        "description": "Okrem kurzov zabezpečujem aj revízie zariadení a poradím vám pri nastavovaní bezpečnostných procesov.",
-        "highlights": []
+        "subtitle": "Od opráv po pneumatiky",
+        "description": "Nemusíte behať po viacerých servisoch. Všetko vybavím – od bežných opráv cez pneuservis až po diagnostiku."
       },
-
       {
-        "title": "Flexibilné termíny",
-        "subtitle": "Prispôsobené vášmu času",
-        "description": "Školenia viem realizovať podľa vášho harmonogramu – počas týždňa, víkendu alebo priamo na pracovisku.",
-        "highlights": []
+        "title": "Osobný prístup",
+        "subtitle": "Každý zákazník je pre mňa dôležitý",
+        "description": "Auto beriem tak, akoby bolo moje vlastné. Mojím cieľom je, aby ste boli spokojní a mali istotu, že sa na mňa môžete spoľahnúť."
+      },
+      {
+        "title": "Preprava a dovoz áut",
+        "subtitle": "Bezpečne a jednoducho",
+        "description": "Ak potrebujete dopraviť auto zo zahraničia alebo prepraviť tovar, vybavím to za vás. Používam modernú techniku a dbám na kvalitu mojich služieb."
       }
     ]
   },
+
   "footer": {
-    "text": "© 2025 Ing. Filip Martinka | Všetky práva vyhradené | BOZP a OPP služby"
+    "text": "© 2025 Odťah & Autoservis | Zavolajte mi na 0905 212 453 – rád vám pomôžem"
   }
 }
