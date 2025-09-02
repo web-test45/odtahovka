@@ -56,13 +56,15 @@
       {
         "title": "Kompletný servis",
         "subtitle": "Od školenia po revízie",
-        "description": "Okrem kurzov zabezpečujem aj revízie zariadení a poradím vám pri nastavovaní bezpečnostných procesov."
+        "description": "Okrem kurzov zabezpečujem aj revízie zariadení a poradím vám pri nastavovaní bezpečnostných procesov.",
+        "highlights": []
       },
 
       {
         "title": "Flexibilné termíny",
         "subtitle": "Prispôsobené vášmu času",
-        "description": "Školenia viem realizovať podľa vášho harmonogramu – počas týždňa, víkendu alebo priamo na pracovisku."
+        "description": "Školenia viem realizovať podľa vášho harmonogramu – počas týždňa, víkendu alebo priamo na pracovisku.",
+        "highlights": []
       }
     ]
   },
