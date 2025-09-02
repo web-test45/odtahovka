@@ -5,85 +5,56 @@
   },
 
   "header": {
-    "logoText": "BOZP kurzy a školenia"
+    "logoText": "BOZP a OPP kurzy"
   },
-
+  
   "hero": {
-    "headline": "Profesionálne kurzy a školenia v oblasti BOZP",
-    "typedText": "Získajte oprávnenia a zručnosti pre bezpečnú prácu."
+    "headline": "Bezpečnosť a odbornosť na prvom mieste",
+    "typedText": "Kurzy, školenia a revízie v oblasti BOZP."
   },
-
   "services": {
-    "title": "Prečo si vybrať nás",
-    "subtitle": "Naša práca je postavená na profesionalite, spoľahlivosti a osobnom prístupe.",
+    "title": "Moje služby",
+    "subtitle": "Ponúkam školenia a odbornú podporu, ktoré vám prinesú istotu pri práci so strojmi a zariadeniami. Každý kurz je zameraný na praktické skúsenosti a prispôsobený vašim potrebám.",
     "items": [
       {
-        "title": "Skúsenosti a odbornosť",
-        "description": "Máme dlhoročné skúsenosti v oblasti BOZP a technických zariadení, čo zaručuje kvalitu a odbornosť našich školení."
+        "title": "🎓 Školenia a kurzy",
+        "description": "Naučte sa pracovať bezpečne, efektívne a s istotou."
       },
       {
-        "title": "Individuálny prístup",
-        "description": "Ku každému klientovi pristupujeme osobitne – školenia prispôsobujeme jeho potrebám a pracovnej náplni."
+        "title": "🛡 Odborné poradenstvo",
+        "description": "Získajte jasné odporúčania a riešenia pre bezpečnú a spoľahlivú prevádzku."
       },
       {
-        "title": "Komplexné riešenia",
-        "description": "Neponúkame len školenia, ale aj revízie zariadení, koordináciu bezpečnosti a poradenstvo – všetko na jednom mieste."
+        "title": "🔧 Revízie zariadení",
+        "description": "Profesionálne prehliadky a kontroly zariadení pre vašu bezstarostnú prevádzku."
       }
     ]
   },
-
   "moreInfo": {
-    "title": "Naše výhody",
-    "subtitle": "Čo nás odlišuje od konkurencie.",
+    "title": "Prečo si vybrať mňa",
+    "subtitle": "Spoľahlivý lektor, ktorý vás pripraví na bezpečnú a kvalitnú prax",
     "cards": [
       {
-        "title": "Flexibilita",
-        "subtitle": "Kurzy podľa vašich možností",
-        "description": "Organizujeme školenia v termínoch a miestach, ktoré vám najviac vyhovujú.",
+        "title": "Dlhoročné skúsenosti",
+        "subtitle": "Odbornosť a prax",
+        "description": "Moje školenia a kurzy vychádzajú z praxe a reálnych potrieb klientov.",
         "highlights": []
       },
       {
-        "title": "Aktuálna legislatíva",
-        "subtitle": "Vždy v súlade so zákonom",
-        "description": "Naše školenia a revízie sú vždy v súlade s najnovšími právnymi predpismi."
+        "title": "Individuálny prístup",
+        "subtitle": "Na mieru pre vás",
+        "description": "Každé pracovisko je iné – prispôsobím kurz presne vašim podmienkam.",
+        "highlights": []
       },
       {
-        "title": "Kvalitní lektori",
-        "subtitle": "Odborníci z praxe",
-        "description": "Naši školitelia sú profesionáli s bohatými skúsenosťami priamo z praxe."
-      },
-      {
-        "title": "Komplexná starostlivosť",
-        "subtitle": "Všetko na jednom mieste",
-        "description": "Od školení cez revízie až po poradenstvo – u nás získate kompletný servis."
-      },
-      {
-        "title": "Spokojnosť klientov",
-        "subtitle": "Overené referenciami",
-        "description": "Našou prioritou je spokojnosť klientov – máme množstvo pozitívnych ohlasov a dlhodobých partnerov."
+        "title": "Spoľahlivosť a dôvera",
+        "subtitle": "Praktické rady a skúsenosti",
+        "description": "Poskytnem vám zrozumiteľné návody a osvedčené postupy, ktoré uľahčia každodennú prácu či zvýšia vašu bezpečnosť.",
+        "highlights": []
       }
     ]
   },
-
-  "courseList": {
-    "title": "Ponuka kurzov a školení",
-    "subtitle": "Pripravili sme pre vás širokú škálu odborných školení:",
-    "bullets": [
-      "Žeriavnicky kurz / obsluha hydraulickej ruky a zdvíhacích zariadení...",
-      "Obsluha stavebných strojov / strojnícky kurz (strojnícky preukaz)",
-      "Montáž a demontáž lešenia (lešenársky kurz)",
-      "Školenie obsluhy pracovnej plošiny...",
-      "Kurz viazača bremien",
-      "Kurz obsluhy motorových vozíkov (VZV kurz...)",
-      "Školenie obsluhy tlakových nádob...",
-      "Školenie osôb pracujúcich vo výškach",
-      "BOZP školenia",
-      "Školenia ochrany pred požiarmi"
-    ]
-  },
-  
-
   "footer": {
-    "text": "© 2025 Ing. Filip Martinka | Všetky práva vyhradené | BOZP, OPP a technické zariadenia"
+    "text": "© 2025 Ing. Filip Martinka | Všetky práva vyhradené | BOZP a OPP služby"
   }
 }
