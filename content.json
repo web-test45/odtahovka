@@ -14,74 +14,71 @@
   },
 
   "services": {
-    "title": "Naše kurzy a školenia",
-    "subtitle": "Ponúkame odborné kurzy a školenia v oblasti BOZP a vyhradených technických zariadení.",
+    "title": "Prečo si vybrať nás",
+    "subtitle": "Naša práca je postavená na profesionalite, spoľahlivosti a osobnom prístupe.",
     "items": [
       {
-        "title": "Žeriavnicky kurz",
-        "description": "Obsluha hydraulickej ruky a zdvíhacích zariadení vrátane zariadení používaných v banskom priemysle."
+        "title": "Skúsenosti a odbornosť",
+        "description": "Máme dlhoročné skúsenosti v oblasti BOZP a technických zariadení, čo zaručuje kvalitu a odbornosť našich školení."
       },
       {
-        "title": "Strojnícky kurz",
-        "description": "Obsluha stavebných strojov a získanie strojníckeho preukazu."
+        "title": "Individuálny prístup",
+        "description": "Ku každému klientovi pristupujeme osobitne – školenia prispôsobujeme jeho potrebám a pracovnej náplni."
       },
       {
-        "title": "Lešenársky kurz",
-        "description": "Montáž a demontáž lešenia."
-      },
-      {
-        "title": "Školenie pracovných plošín",
-        "description": "Obsluha vysokozdvižných, nožnicových, kĺbových a iných plošín."
-      },
-      {
-        "title": "Kurz viazača bremien",
-        "description": "Odborné školenie pre viazanie a manipuláciu s bremenami."
-      },
-      {
-        "title": "VZV kurz",
-        "description": "Obsluha motorových vozíkov vrátane teleskopického nakladača Manitou."
-      },
-      {
-        "title": "Školenie tlakových nádob a kuričov",
-        "description": "Odborné školenie obsluhy tlakových nádob a kuričov."
-      },
-      {
-        "title": "Práca vo výškach",
-        "description": "Školenie osôb pracujúcich vo výškach."
-      },
-      {
-        "title": "BOZP školenia",
-        "description": "Školenia v oblasti bezpečnosti a ochrany zdravia pri práci."
-      },
-      {
-        "title": "Ochrana pred požiarmi",
-        "description": "Školenia a kurzy v oblasti ochrany pred požiarmi."
+        "title": "Komplexné riešenia",
+        "description": "Neponúkame len školenia, ale aj revízie zariadení, koordináciu bezpečnosti a poradenstvo – všetko na jednom mieste."
       }
     ]
   },
 
   "moreInfo": {
-    "title": "Ďalšie služby",
-    "subtitle": "Komplexné služby v oblasti BOZP a technických zariadení.",
+    "title": "Naše výhody",
+    "subtitle": "Čo nás odlišuje od konkurencie.",
     "cards": [
       {
-        "title": "Revízie zariadení",
-        "subtitle": "Kontroly a odborné prehliadky",
-        "description": "Vykonávame revízie všetkých typov tlakových a zdvíhacích zariadení (žeriavy, plošiny, hydraulické ruky, brány a iné), vrátane zariadení používaných v banskom priemysle.",
+        "title": "Flexibilita",
+        "subtitle": "Kurzy podľa vašich možností",
+        "description": "Organizujeme školenia v termínoch a miestach, ktoré vám najviac vyhovujú.",
         "highlights": []
       },
       {
-        "title": "Koordinátor bezpečnosti",
-        "subtitle": "Bezpečnosť na stavenisku",
-        "description": "Zabezpečujeme koordináciu bezpečnosti na stavbách v súlade s platnou legislatívou.",
-        "highlights": []
+        "title": "Aktuálna legislatíva",
+        "subtitle": "Vždy v súlade so zákonom",
+        "description": "Naše školenia a revízie sú vždy v súlade s najnovšími právnymi predpismi."
       },
       {
-        "title": "Komplexné BOZP služby",
-        "subtitle": "Profesionálny prístup",
-        "description": "Poskytujeme služby v oblasti BOZP, Ochrany pred požiarmi a vyhradených technických zariadení.",
-        "highlights": []
+        "title": "Kvalitní lektori",
+        "subtitle": "Odborníci z praxe",
+        "description": "Naši školitelia sú profesionáli s bohatými skúsenosťami priamo z praxe."
+      },
+      {
+        "title": "Komplexná starostlivosť",
+        "subtitle": "Všetko na jednom mieste",
+        "description": "Od školení cez revízie až po poradenstvo – u nás získate kompletný servis."
+      },
+      {
+        "title": "Spokojnosť klientov",
+        "subtitle": "Overené referenciami",
+        "description": "Našou prioritou je spokojnosť klientov – máme množstvo pozitívnych ohlasov a dlhodobých partnerov."
       }
+    ]
+  },
+
+  "courseList": {
+    "title": "Ponuka kurzov a školení",
+    "subtitle": "Pripravili sme pre vás širokú škálu odborných školení:",
+    "bullets": [
+      "Žeriavnicky kurz / obsluha hydraulickej ruky a zdvíhacích zariadení (vrátane zariadení používaných v banskom priemysle)",
+      "Obsluha stavebných strojov / strojnícky kurz (strojnícky preukaz)",
+      "Montáž a demontáž lešenia (lešenársky kurz)",
+      "Školenie obsluhy pracovnej plošiny (vysokozdvižná PP, nožnicová, kĺbová a pod.)",
+      "Kurz viazača bremien",
+      "Kurz obsluhy motorových vozíkov (VZV kurz, vrátane teleskopického nakladača Manitou)",
+      "Školenie obsluhy tlakových nádob vrátane školenia kuričov",
+      "Školenie osôb pracujúcich vo výškach",
+      "BOZP školenia",
+      "Školenia ochrany pred požiarmi"
     ]
   },
 
