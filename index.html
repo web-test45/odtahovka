@@ -11,13 +11,8 @@
         :root {
             /* Core greens */
             --toned-dark: #561748;       /* main brand green */
-            --green-mid: #175626;        /* darker gradient stop */
             --toned-light: #eb4ce8;      /* bright accent green */
-            --green-lighter: #87eb8c;    /* pastel highlight green */
-
-            /* Blues */
-            --blue-sky: #87ceeb;         /* light sky blue #87eb8c; */
-            --blue-accent: #4cb1eb;      /* button/glow accent blue #4ceb5f;    */ 
+            --toned-lighter: #eb87d7;    /* pastel highlight green */
 
             /* Shadows / overlays */
             --shadow-green: rgba(26, 86, 23, 0.15);
@@ -25,7 +20,6 @@
             /* Gradients */
             --toned-gradient: linear-gradient(135deg, var(--toned-light), var(--toned-dark));
             --toned-gradient-hovered: linear-gradient(135deg, var(--toned-dark), var(--toned-light));
-            --gradient-bg: linear-gradient(135deg, var(--gray-lighter) 0%, var(--gray-light) 100%);
         }
 
 
@@ -296,7 +290,7 @@
             font-size: 3.5rem;
             font-weight: 700;
             margin-bottom: 10px;
-            color: #87eb8c;
+            color: var(--toned-lighter);
         }
 
         .stat-text {
@@ -506,7 +500,7 @@
 
         .info-subtitle {
             font-size: 0.95rem;
-            color: #87CEEB;
+            color: var(--toned-lighter);
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 0.5px;
@@ -661,7 +655,7 @@
             font-weight: 600;
             text-decoration: none;
             transition: all 0.5s ease;
-            border: 2px solid rgb(83, 163, 80);
+            border: 2px solid var(--toned-lighter);
             cursor: pointer;
             margin-top: 15px;
         }
