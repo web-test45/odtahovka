@@ -1,74 +1,91 @@
 {
   "topBar": {
-    "phone": "0904 045 678",
-    "email": "optiboxhd@gmail.com"
+    "phone": "0915 993 909",
+    "email": "fmartinkabm@gmail.com"
   },
 
   "header": {
-    "logoText": "studneNR"
+    "logoText": "BOZP kurzy a školenia"
   },
-  
+
   "hero": {
-    "headline": "Profesionálne vŕtanie a prehlbovanie studní",
-    "typedText": "Spoľahlivé studne do všetkých druhov hornín s dlhoročnými skúsenosťami."
+    "headline": "Profesionálne kurzy a školenia v oblasti BOZP",
+    "typedText": "Získajte oprávnenia a zručnosti pre bezpečnú prácu."
   },
+
   "services": {
-    "title": "Naše služby",
-    "subtitle": "Pôsobíme v lokalite Nitry a okolí do 70 km, Nové Zámky a Hlohovec.",
+    "title": "Naše kurzy a školenia",
+    "subtitle": "Ponúkame odborné kurzy a školenia v oblasti BOZP a vyhradených technických zariadení.",
     "items": [
       {
-        "title": "💧 Vŕtanie a prehlbovanie studní",
-        "description": "Realizujeme vrty od 150 mm do 400 mm do všetkých druhov hornín."
+        "title": "Žeriavnicky kurz",
+        "description": "Obsluha hydraulickej ruky a zdvíhacích zariadení vrátane zariadení používaných v banskom priemysle."
       },
       {
-        "title": "⚒️ Rôzne technológie vŕtania",
-        "description": "Studne vŕtame šnekom, výplachom alebo pneumatickým kladivom – kompresorom podľa podmienok a typu podložia."
+        "title": "Strojnícky kurz",
+        "description": "Obsluha stavebných strojov a získanie strojníckeho preukazu."
       },
       {
-        "title": "🔍 Vyhľadávanie prameňov",
-        "description": "Pomocou prútika nájdeme pre vás najvýdatnejšie pramene pre studňu."
+        "title": "Lešenársky kurz",
+        "description": "Montáž a demontáž lešenia."
+      },
+      {
+        "title": "Školenie pracovných plošín",
+        "description": "Obsluha vysokozdvižných, nožnicových, kĺbových a iných plošín."
+      },
+      {
+        "title": "Kurz viazača bremien",
+        "description": "Odborné školenie pre viazanie a manipuláciu s bremenami."
+      },
+      {
+        "title": "VZV kurz",
+        "description": "Obsluha motorových vozíkov vrátane teleskopického nakladača Manitou."
+      },
+      {
+        "title": "Školenie tlakových nádob a kuričov",
+        "description": "Odborné školenie obsluhy tlakových nádob a kuričov."
+      },
+      {
+        "title": "Práca vo výškach",
+        "description": "Školenie osôb pracujúcich vo výškach."
+      },
+      {
+        "title": "BOZP školenia",
+        "description": "Školenia v oblasti bezpečnosti a ochrany zdravia pri práci."
+      },
+      {
+        "title": "Ochrana pred požiarmi",
+        "description": "Školenia a kurzy v oblasti ochrany pred požiarmi."
       }
     ]
   },
+
   "moreInfo": {
-    "title": "Viac o našich službách",
-    "subtitle": "Spoľahlivosť, dlhoročné skúsenosti a moderná technika pre kvalitné studne.",
+    "title": "Ďalšie služby",
+    "subtitle": "Komplexné služby v oblasti BOZP a technických zariadení.",
     "cards": [
       {
-        "title": "Skúsenosti a technika",
-        "subtitle": "Tri vrtné súpravy k dispozícii",
-        "description": "Disponujeme tromi profesionálnymi vrtnými súpravami a bohatými skúsenosťami v odbore. Každú studňu realizujeme spoľahlivo a precízne.",
+        "title": "Revízie zariadení",
+        "subtitle": "Kontroly a odborné prehliadky",
+        "description": "Vykonávame revízie všetkých typov tlakových a zdvíhacích zariadení (žeriavy, plošiny, hydraulické ruky, brány a iné), vrátane zariadení používaných v banskom priemysle.",
         "highlights": []
       },
       {
-        "title": "Flexibilné technológie",
-        "subtitle": "Prispôsobenie každému podložiu",
-        "description": "Používame technológie vhodné na rôzne typy hornín a situácie. Zabezpečíme optimálny postup vŕtania pre vaše podmienky.",
+        "title": "Koordinátor bezpečnosti",
+        "subtitle": "Bezpečnosť na stavenisku",
+        "description": "Zabezpečujeme koordináciu bezpečnosti na stavbách v súlade s platnou legislatívou.",
         "highlights": []
       },
       {
-        "title": "Kvalitné materiály",
-        "subtitle": "Bezpečnosť pre pitnú vodu",
-        "description": "Používame atestované PVC rúry vhodné na pitnú vodu, čo zaručuje zdravotnú nezávadnosť a dlhú životnosť studne.",
-        "highlights": [
-          "Certifikované PVC rúry",
-          "Bezpečné pre pitnú vodu",
-          "Dlhodobá trvácnosť"
-        ]
-      },
-      {
-        "title": "Cenová dostupnosť",
-        "subtitle": "Cena už od 50 €",
-        "description": "Cena práce sa odvíja od druhu horniny a priemeru vrtu. Už od 50 € vám zrealizujeme studňu presne podľa vašich potrieb.",
-        "highlights": [
-          "Férové ceny",
-          "Individuálny prístup",
-          "Transparentná cenová ponuka"
-        ]
+        "title": "Komplexné BOZP služby",
+        "subtitle": "Profesionálny prístup",
+        "description": "Poskytujeme služby v oblasti BOZP, Ochrany pred požiarmi a vyhradených technických zariadení.",
+        "highlights": []
       }
     ]
   },
+
   "footer": {
-    "text": "© 2025 StudneNR | Všetky práva vyhradené"
+    "text": "© 2025 Ing. Filip Martinka | Všetky práva vyhradené | BOZP, OPP a technické zariadenia"
   }
 }
