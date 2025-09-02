@@ -9,10 +9,10 @@
     <style>
 
         :root {
-            /* Core greens */
-            --toned-dark: #561748;       /* main brand green */
-            --toned-light: #eb4ce8;      /* bright accent green */
-            --toned-lighter: #eb87d7;    /* pastel highlight green */
+            /* Core colors */
+            --toned-dark: #6a661a;       
+            --toned-light: #ebe34c;      
+            --toned-lighter: #e8eb87;    
 
             /* Shadows / overlays */
             --toned-border: rgba(198, 108, 203, 0.3);
@@ -22,9 +22,7 @@
             --toned-gradient: linear-gradient(135deg, var(--toned-light), var(--toned-dark));
             --toned-gradient-hovered: linear-gradient(135deg, var(--toned-dark), var(--toned-light));
         }
-
-
-
+        
         * {
             margin: 0;
             padding: 0;
@@ -1140,15 +1138,6 @@
             <div id="services-list" class="services-grid"></div>
         </div>
     </section>
-
-    <!-- Course List Section -->
-    <section id="course-list" class="course-list">
-        <div class="container">
-        <h2 id="courselist-title" class="section-title fade-in-up"></h2>
-        <p id="courselist-subtitle" class="section-subtitle"></p>
-        <ul id="courselist-bullets" class="list-disc list-inside space-y-2"></ul>
-        </div>
-    </section>
   
 
     <!-- More Info Section -->
@@ -1444,19 +1433,6 @@ function startTypedText(text) {
           </div>`;
         infoContainer.insertAdjacentHTML('beforeend', html);
       });
-
-      // Course List Section
-      if (data.courseList) {
-        document.getElementById('courselist-title').textContent = data.courseList.title;
-        document.getElementById('courselist-subtitle').textContent = data.courseList.subtitle;
-
-        const courseListContainer = document.getElementById('courselist-bullets');
-        data.courseList.bullets.forEach(item => {
-          const li = document.createElement('li');
-          li.textContent = item;
-          courseListContainer.appendChild(li);
-        });
-      }
 
 
       // Footer
